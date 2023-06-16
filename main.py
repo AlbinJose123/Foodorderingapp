@@ -169,7 +169,7 @@ def user_activity():
     while(True):
         print('\n')
         print('-----------------------------------------------')
-        print('|              Welcome to Zomato              |')
+        print('|              Welcome to Swiggy              |')
         print('-----------------------------------------------')
         print('| 1. Register                                 |')
         print('| 2. Login                                    |')
