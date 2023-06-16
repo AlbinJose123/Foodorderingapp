@@ -107,7 +107,7 @@ class Admin:
 
 if __name__=='__main__':
     admin_object = Admin()
-    # admin.login('Ann','Ann@2805')
+    # admin.login('Albin','Albin@2805')
     admin_object.adding_new_food_items("abc","100ml","100","3","0")
     admin_object.adding_new_food_items("abghjg","100ml","100","13","5")
     admin_object.adding_new_food_items("ghghghggjhg","100ml","1097","13","5")
